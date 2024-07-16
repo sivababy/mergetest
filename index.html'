@@ -13,21 +13,12 @@
             background-color: #f4f4f4;
         }
         .container {
-            width: 80%;
+     https://github.com/sivababy/mergetest/edit/main/index.html'       width: 80%;
             margin: auto;
             overflow: hidden;
         }
         header {
-            background: #333;
-            color: #fff;
-            padding-top: 30px;
-            min-height: 70px;
-            border-bottom: #77a0a9 3px solid;
-        }
-        header a {
-            color: #fff;
-            text-decoration: none;
-            text-transform: uppercase;
+           https://github.com/sivababy/mergetest/edit/main/index.html'
             font-size: 16px;
         }
         header ul {
@@ -73,7 +64,17 @@
             text-align: center;
             color: #333;
         }
-        footer {
+        footer { color: #666;
+        }
+        .portfolio {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+        .portfolio-item {
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin: 10px;
             background: #333;
             color: #fff;
             text-align: center;
@@ -81,13 +82,7 @@
             margin-top: 20px;
         }
     </style>
-</head>
-<body>
-    <header>
-        <div class="container">
-            <h1>Sivaramakrishnan</h1>
-            <ul>
-                <li><a href="#about">About Me</a></li>
+</head>#about">About Me</a></li>
                 <li><a href="#portfolio">Portfolio</a></li>
                 <li><a href="#contact">Contact</a></li>
                 <li><a href="#blog">Blog</a></li>
@@ -108,7 +103,13 @@
                 </div>
                 <div class="portfolio-item">
                     <img src="https://via.placeholder.com/300" alt="Project 2">
-                    <p>Project 2</p>
+                 
+<body>
+    <header>
+        <div class="container">
+            <h1>Sivaramakrishnan</h1>
+            <ul>
+                <li><a href="   <p>Project 2</p>
                 </div>
                 <div class="portfolio-item">
                     <img src="https://via.placeholder.com/300" alt="Project 3">
@@ -118,11 +119,11 @@
         </section>
         <section id="contact" class="main">
             <h1>Contact</h1>
-            <p>You can reach me at: <a href="mailto:sivaramakrishnan@example.com">sivaramakrishnan@example.com</a></p>
+            <p>
+        You can reach me at: <a href="mailto:sivaramakrishnan@example.com">sivaramakrishnan@example.com</a></p>
         </section>
         <section id="blog" class="main">
-            <h1>Blog</h1>
-            <p>Coming soon...</p>
+            <h1>Blog</h1>    <p>Coming soon...</p>
         </section>
     </div>
     <footer>
