@@ -52,26 +52,10 @@
             text-align: center;
             color: #666;
         }
-        .portfolio {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-around;
-        }
-        .portfolio-item {
-            background: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            margin: 10px;
-            flex: 1;
+        .
             min-width: 250px;
             max-width: 300px;
-        }
-        .portfolio-item img {
-            width: 100%;
-        }
-        .portfolio-item p {
-            padding: 15px;
-            text-align: center;
-            color: #333;
+   
         }
         footer {
             background: #333;
@@ -80,16 +64,7 @@
             padding: 10px;
             margin-top: 20px;
         }
-    </style>
-</head>
-<body>
-    <header>
-        <div class="container">
-            <h1>Sivaramakrishnan</h1>
-            <ul>
-                <li><a href="#about">About Me</a></li>
-                <li><a href="#portfolio">Portfolio</a></li>
-                <li><a href="#contact">Contact</a></li>
+    </stylet</a></li>
                 <li><a href="#blog">Blog</a></li>
             </ul>
         </div>
